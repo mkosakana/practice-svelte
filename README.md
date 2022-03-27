@@ -36,7 +36,7 @@
 - 여행 🚂🧳
 
 
-## 📲 채널
+## 📱 채널
 
 [![](https://img.shields.io/static/v1?label=&message=Github&color=171515&logo=github)](https://github.com/mkosakana)
 [![](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0e76a8&logo=linkedin)](https://www.linkedin.com/in/mkosakana)
