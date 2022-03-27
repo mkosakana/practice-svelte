@@ -2,7 +2,7 @@
 개발자로서 날마다 Go를 사용하고 있습니다.  
 <br>
 バックエンドエンジニアとして日々Goを書いています．  
-（韓国語は単なる趣味です ※伝わるように努めますのでご容赦ください）
+（韓国語は単なる趣味です）
 
 
 ## 경력
@@ -36,7 +36,7 @@
 - 여행 🚂🧳
 
 
-## 📱 채널
+## 채널
 
 [![](https://img.shields.io/static/v1?label=&message=Github&color=171515&logo=github)](https://github.com/mkosakana)
 [![](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0e76a8&logo=linkedin)](https://www.linkedin.com/in/mkosakana)
