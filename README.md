@@ -1,22 +1,22 @@
-# 🧑🏻‍💻 개발자 아라이정생
+# 개발자 아라이정생
 개발자로서 날마다 Go를 사용하고 있습니다.  
 <br>
 バックエンドエンジニアとして日々Goを書いています．  
-（韓国語は単なる趣味です ※日本語無しでも伝わるように努めますので，ご容赦ください 🙇🏼‍♂️）
+（韓国語は単なる趣味です）
 
 
 ## 경력
 
 ### 🎓 메이지 대학（2019.4 ~ 2023.3）
- - 정보 커뮤니케이션학부
- - https://www.meiji.ac.jp/infocom
+- 정보 커뮤니케이션학부
+- [https://www.meiji.ac.jp/infocom](https://www.meiji.ac.jp/infocom)
 
 ### 🏢 익사이트 주식회사（2021.8 ~ ）
- - 헬스케어 사업부
- - https://maja.excite.co.jp （2021.10/31にクローズ済）
- - SaaS 사업부
- - https://info.excite.co.jp
- - https://lp.kuroten.jp
+- 헬스케어 사업부
+- [https://maja.excite.co.jp](https://maja.excite.co.jp) （2021.10/31にクローズ済）
+- SaaS 사업부
+- [https://info.excite.co.jp](https://info.excite.co.jp)
+- [https://lp.kuroten.jp](https://lp.kuroten.jp)
 
 
 ## 프로필
@@ -36,7 +36,7 @@
 - 여행 🚂🧳
 
 
-## 📲 채널
+## 채널
 
 [![](https://img.shields.io/static/v1?label=&message=Github&color=171515&logo=github)](https://github.com/mkosakana)
 [![](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0e76a8&logo=linkedin)](https://www.linkedin.com/in/mkosakana)
