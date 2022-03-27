@@ -1,8 +1,8 @@
 {
-  "name": "neulhan",
+  "name": "mkosakana",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://www.neulhan.com",
+  "homepage": "https://mkosakana.dev",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
