@@ -9,14 +9,14 @@
 
 ### 🎓 메이지 대학（2019.4 ~ 2023.3）
 - 정보 커뮤니케이션학부
-- https://www.meiji.ac.jp/infocom
+- [https://www.meiji.ac.jp/infocom](https://www.meiji.ac.jp/infocom)
 
 ### 🏢 익사이트 주식회사（2021.8 ~ ）
 - 헬스케어 사업부
-- https://maja.excite.co.jp （2021.10/31にクローズ済）
+- [https://maja.excite.co.jp](https://maja.excite.co.jp) （2021.10/31にクローズ済）
 - SaaS 사업부
-- https://info.excite.co.jp
-- https://lp.kuroten.jp
+- [https://info.excite.co.jp](https://info.excite.co.jp)
+- [https://lp.kuroten.jp](https://lp.kuroten.jp)
 
 
 ## 프로필
