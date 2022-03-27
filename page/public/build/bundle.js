@@ -5473,9 +5473,9 @@ var app = (function () {
     			div1 = element("div");
     			div0 = element("div");
     			attr_dev(div0, "class", "portfolio-wrapper container");
-    			add_location(div0, file$2, 34, 2, 1413);
+    			add_location(div0, file$2, 34, 2, 1418);
     			attr_dev(div1, "class", "portfolio-section svelte-17a20i");
-    			add_location(div1, file$2, 33, 0, 1379);
+    			add_location(div1, file$2, 33, 0, 1384);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
