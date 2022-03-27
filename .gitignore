@@ -9,4 +9,5 @@
 
 .idea/
 
-node_modules/
+/page/node_modules
+package-lock.json
